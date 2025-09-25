@@ -1,4 +1,4 @@
-##Resumen claro y sencillo de qué son las Activities y los Intent explícitos e implícitos en Android:
+Resumen claro y sencillo de qué son las Activities y los Intent explícitos e implícitos en Android:
 
 Activity
 •	Una Activity es una pantalla de una aplicación en Android.
@@ -14,8 +14,8 @@ Existen dos tipos:
 •	Ejemplo: ir desde el menú principal a la pantalla de configuración.
 
 Ejemplo en Java:
-Intent intent = new Intent(this, ConfiguracionActivity.class);
-startActivity(intent);
+<img width="1099" height="117" alt="image" src="https://github.com/user-attachments/assets/a8eb73bc-717e-43fd-9ea0-543399911698" />
+
 
 2. Intent implícito
 •	Se usa cuando queremos que Android elija qué aplicación puede realizar la acción solicitada.
