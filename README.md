@@ -23,10 +23,7 @@ Ejemplo en Java:
 •	Android muestra al usuario las apps disponibles para completar la acción.
 
 Ejemplo en Java:
-Intent intent = new Intent(Intent.ACTION_VIEW);
-intent.setData(Uri.parse("https://www.google.com"));
-startActivity(intent);
-(Esto abrirá el navegador que el usuario tenga disponible).
+<img width="911" height="165" alt="image" src="https://github.com/user-attachments/assets/11dc9f53-5972-4222-88fd-5389179cc505" />
 
 En resumen:
 •	Activity → Pantalla de la app.
